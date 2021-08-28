@@ -1,3 +1,8 @@
 Hi there, i'm here! 👋
 
-![Chzkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chzkyy&theme=tokyonight&show_icons=true&border_radius=10px) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chzkyy&theme=tokyonight&layout=compact&border_radius=10px)](https://github.com/chzkyy/github-readme-stats)
+<a href="https://github.com/chzkyy/chzkyy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chzkyy&theme=tokyonight&layout=compact&border_radius=10px" />
+</a>
+<a href="https://github.com/chzkyy/chzkyy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chzkyy&show_icons=true&line_height=27&count_private=true&&theme=tokyonight&border_radius=10px" alt="Chzkyy's GitHub Stats" />
+</a>    
