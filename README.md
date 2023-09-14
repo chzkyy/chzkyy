@@ -13,10 +13,12 @@
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"></code>         
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"></code> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="javascript" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"  height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30"></code> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="laravel" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="30"></code> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"  height="30"></code> 
